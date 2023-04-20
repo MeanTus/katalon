@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtInvalidFirstName</name>
+   <tag></tag>
+   <elementGuidId>d49a7c87-c2d4-45bb-8115-dfffe863562a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@data-valmsg-for='FirstName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@data-valmsg-for='FirstName']</value>
+      <webElementGuid>930db3fe-6c5c-469b-a18b-4dee7dcce5ac</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

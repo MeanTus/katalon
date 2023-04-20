@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnChangePass</name>
+   <tag></tag>
+   <elementGuidId>ae862b3a-f833-4c72-a842-df252406a743</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='submitButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='submitButton']</value>
+      <webElementGuid>59c3ec25-c73f-4abb-93dd-78c979cc1866</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

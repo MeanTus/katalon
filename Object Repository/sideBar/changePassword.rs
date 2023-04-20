@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>changePassword</name>
+   <tag></tag>
+   <elementGuidId>1cb6be4a-1514-4390-98e5-afeb7713127c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@automation-id='changePasswordItem']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@automation-id='changePasswordItem']</value>
+      <webElementGuid>17c5c53b-9c62-43f6-8770-acdd32c73e4b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

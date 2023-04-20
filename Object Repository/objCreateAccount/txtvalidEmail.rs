@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtvalidEmail</name>
+   <tag></tag>
+   <elementGuidId>2fe8b4de-15c6-4095-88f8-ab6cb98b6801</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@id='EmailInput-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@id='EmailInput-error']</value>
+      <webElementGuid>84684a39-360c-4be6-8d97-77183dd65ddd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

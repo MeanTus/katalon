@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>itemLanguage</name>
+   <tag></tag>
+   <elementGuidId>e9ea9f9b-4ffc-4b9b-826d-164537ba7f4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='q-virtual-scroll__content']//div[text()='Albanian']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='q-virtual-scroll__content']//div[text()='Albanian']</value>
+      <webElementGuid>e1ad617c-5a53-4e9b-af55-bcbd74e43c8f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

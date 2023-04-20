@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtInvalidPassword</name>
+   <tag></tag>
+   <elementGuidId>a08ff9ca-4004-4847-a409-b3f96a44845f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@id='Password-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@id='Password-error']</value>
+      <webElementGuid>bfdc2714-7dbf-4891-94b2-667d74b944a2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

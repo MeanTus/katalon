@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtInvalidLastName</name>
+   <tag></tag>
+   <elementGuidId>37653996-91d7-4f3a-ba43-e08dc7bb9ca0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@data-valmsg-for='LastName']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@data-valmsg-for='LastName']</value>
+      <webElementGuid>4f91f0cd-856d-4b0e-9c38-6ff6afc65f85</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

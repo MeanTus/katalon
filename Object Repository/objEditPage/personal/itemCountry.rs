@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>itemCountry</name>
+   <tag></tag>
+   <elementGuidId>b67a33fa-d8c9-4422-b24d-956d450dc4fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='q-virtual-scroll__content']//div[text()='Albania']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='q-virtual-scroll__content']//div[text()='Albania']</value>
+      <webElementGuid>3e634b7d-1864-4857-82cc-2c974a50f39d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

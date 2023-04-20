@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inputConfirmPass</name>
+   <tag></tag>
+   <elementGuidId>39337a11-b2a2-407f-95f7-7094c90ef3e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='ConfirmPassword']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='ConfirmPassword']</value>
+      <webElementGuid>90f06d6b-bad4-4db5-bce9-f6f77779eb08</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

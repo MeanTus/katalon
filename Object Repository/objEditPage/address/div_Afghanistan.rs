@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Afghanistan</name>
+   <tag></tag>
+   <elementGuidId>c94f9ab5-a7d9-4604-8809-91eaaa5355a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='f_fd3168c6-e617-432d-82eb-412bd4902730_0']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#f_fd3168c6-e617-432d-82eb-412bd4902730_0 > div.q-item__section.column.q-item__section--main.justify-center > div.q-item__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b518da7c-2285-47c0-ac2f-ae927b1ddc00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-item__label</value>
+      <webElementGuid>ae68c7a4-712a-4153-ae36-3dc15768e86e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Afghanistan</value>
+      <webElementGuid>1c612482-2724-4ea1-8e7e-bdec33853f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f_fd3168c6-e617-432d-82eb-412bd4902730_0&quot;)/div[@class=&quot;q-item__section column q-item__section--main justify-center&quot;]/div[@class=&quot;q-item__label&quot;]</value>
+      <webElementGuid>3caffffc-25cd-4e8d-b09d-3a963115780b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='f_fd3168c6-e617-432d-82eb-412bd4902730_0']/div[2]/div</value>
+      <webElementGuid>941a041c-169d-49d3-ba73-0fbfff753451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[24]</value>
+      <webElementGuid>0d7d3f99-eebb-426b-8d8d-ef453dcb2bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::div[24]</value>
+      <webElementGuid>07cdcaee-da9b-4f4b-af94-0945e5f84b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aland Islands'])[3]/preceding::div[2]</value>
+      <webElementGuid>9cf9be05-822f-48c3-8ec2-6ff1f3977464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Albania'])[1]/preceding::div[6]</value>
+      <webElementGuid>8705ed5c-89d0-4071-8212-e013d729e4f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Afghanistan']/parent::*</value>
+      <webElementGuid>8e46202a-43ed-4f9a-ad13-2a1d2524879e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]/div</value>
+      <webElementGuid>cf5b97af-1088-40de-9bd8-2a7e6c9d4f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Afghanistan' or . = 'Afghanistan')]</value>
+      <webElementGuid>e67725df-0b85-4a8f-bce4-de29be32861a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

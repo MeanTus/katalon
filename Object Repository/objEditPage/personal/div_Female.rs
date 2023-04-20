@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Female</name>
+   <tag></tag>
+   <elementGuidId>36eb4817-8681-4000-9455-da0a9834d5eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='f_60504f8a-6353-4616-818b-efec9f89585c_0']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#f_60504f8a-6353-4616-818b-efec9f89585c_0 > div.q-item__section.column.q-item__section--main.justify-center > div.q-item__label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6cb3e74e-9d4f-4f8c-904c-ec42eff46922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>q-item__label</value>
+      <webElementGuid>509543fe-e901-42c5-a6ed-46adbf99e0c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Female</value>
+      <webElementGuid>ba6ddb75-da9e-408f-b23e-bdf1382775eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;f_60504f8a-6353-4616-818b-efec9f89585c_0&quot;)/div[@class=&quot;q-item__section column q-item__section--main justify-center&quot;]/div[@class=&quot;q-item__label&quot;]</value>
+      <webElementGuid>1d2e8af2-b61d-42be-907c-f3ca76cb3499</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='f_60504f8a-6353-4616-818b-efec9f89585c_0']/div[2]/div</value>
+      <webElementGuid>37cc4170-a5ce-4a51-893a-a4049d4d09ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aland Islands'])[2]/following::div[24]</value>
+      <webElementGuid>ff14a606-1651-4754-9573-578a8240ae11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary address:'])[1]/following::div[25]</value>
+      <webElementGuid>ba055f91-0229-4a6a-a706-490f093fb433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[2]/preceding::div[2]</value>
+      <webElementGuid>459150b0-e29a-422e-94b9-56c16ba0dfcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other'])[1]/preceding::div[6]</value>
+      <webElementGuid>7b754bc1-654e-4ecb-a459-30cb2644c47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Female']/parent::*</value>
+      <webElementGuid>9608a28f-4586-4e9e-b5df-c55e22ee3622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]/div</value>
+      <webElementGuid>d77a3adb-5db8-44ec-8c36-0617d96ab70d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Female' or . = 'Female')]</value>
+      <webElementGuid>0d955bb0-7df4-4205-96a2-ad9887f787c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

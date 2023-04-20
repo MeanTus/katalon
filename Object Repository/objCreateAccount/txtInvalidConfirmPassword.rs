@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtInvalidConfirmPassword</name>
+   <tag></tag>
+   <elementGuidId>39a8a833-c76b-4444-8c6d-f97319282909</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@id='ConfirmPassword-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@id='ConfirmPassword-error']</value>
+      <webElementGuid>0d9abee9-cad0-4d21-b114-e330d7912226</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
